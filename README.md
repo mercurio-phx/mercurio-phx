@@ -5,7 +5,21 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mercurio-phx.mercurio-phx&"  />
 </div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mercurio-phx/mercurio-phx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mercurio-phx/mercurio-phx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mercurio-phx/mercurio-phx/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -17,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Emanuele Mercurio from Italy<br>- 🔭 I’m working as a Software Engineer</p>
+<p align="left">I'm Emanuele Mercurio from Italy<br>-👤 18 Years Old<br>- 🔭 I’m working as a Software Engineer<br>- 👾 Former Ethical Hacker</p>
 
 ###
 
@@ -56,5 +70,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mercurio-phx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
